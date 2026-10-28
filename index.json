@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "pydantic-zarr",
+  "versions": [
+    {
+      "commit": "d11289a9f1e21d12e329cf55f809b3e8ad631ab5",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:37:13.487159+00:00"
+    }
+  ]
+}
