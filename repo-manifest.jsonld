@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zarr-developers/pydantic-zarr/commit/d11289a9f1e21d12e329cf55f809b3e8ad631ab5",
       "git:hexsha": "d11289a9f1e21d12e329cf55f809b3e8ad631ab5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:37:13.486660+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zarr-developers/pydantic-zarr/commit/0d91765c3ce4e505e2f5947a950ca3ef3330387f",
